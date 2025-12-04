@@ -1,4 +1,4 @@
-#💡 IoT Smart Lighting Control Application
+# 💡 IoT Smart Lighting Control Application
 
 This project outlines an Internet of Things (IoT)-based mobile application designed to provide seamless control and real-time monitoring of a smart lighting system. Leveraging cloud synchronization, this application enhances user comfort, improves energy efficiency, and provides centralized management for multiple lighting devices.
 
