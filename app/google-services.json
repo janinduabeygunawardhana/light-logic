@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107865673989",
+    "project_id": "lightlogic",
+    "storage_bucket": "lightlogic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107865673989:android:88a348a078c230b501e76c",
+        "android_client_info": {
+          "package_name": "com.example.lightlogic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJLfsZQJIQ0C3rP63wqHbBNmkPuA81CMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
